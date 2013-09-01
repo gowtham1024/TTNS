@@ -1,0 +1,65 @@
+c:\users\phoenix\documents\visual studio 2010\Projects\Query\Query\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\phoenix\documents\visual studio 2010\Projects\Query\Query\obj\x86\Debug\Query.Resources.resources
+c:\users\phoenix\documents\visual studio 2010\Projects\Query\Query\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\phoenix\documents\visual studio 2010\Projects\Query\Query\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\phoenix\documents\visual studio 2010\Projects\Query\Query\bin\Debug\Query.exe.config
+c:\users\phoenix\documents\visual studio 2010\Projects\Query\Query\bin\Debug\Database1.mdf
+c:\users\phoenix\documents\visual studio 2010\Projects\Query\Query\bin\Debug\Database1_log.ldf
+c:\users\phoenix\documents\visual studio 2010\Projects\Query\Query\bin\Debug\Query.exe
+c:\users\phoenix\documents\visual studio 2010\Projects\Query\Query\bin\Debug\Query.pdb
+c:\users\phoenix\documents\visual studio 2010\Projects\Query\Query\bin\Debug\Query.xml
+c:\users\phoenix\documents\visual studio 2010\Projects\Query\Query\obj\x86\Debug\Query.exe
+c:\users\phoenix\documents\visual studio 2010\Projects\Query\Query\obj\x86\Debug\Query.xml
+c:\users\phoenix\documents\visual studio 2010\Projects\Query\Query\obj\x86\Debug\Query.pdb
+C:\Users\Phoenix\documents\visual studio 2010\Projects\Query\Query\bin\Debug\Database2.mdb
+C:\Users\Phoenix\documents\visual studio 2010\Projects\Query\Query\obj\x86\Debug\Query.Query.resources
+C:\Users\Phoenix\documents\visual studio 2010\Projects\Query\Query\obj\x86\Debug\Query.login.resources
+C:\Users\Phoenix\Documents\Visual Studio 2010\Projects\Query\Query\obj\x86\Debug\Query.Email.resources
+C:\Users\Phoenix\Documents\Visual Studio 2010\Projects\Query\Query\obj\x86\Debug\Query.index.resources
+C:\Users\Phoenix\Documents\Visual Studio 2010\Projects\Query\Query\obj\x86\Debug\Query.showdata.resources
+C:\Users\Phoenix\Documents\Visual Studio 2010\Projects\Query\Query\obj\x86\Debug\Query.subindex.resources
+C:\Users\Phoenix\Documents\Visual Studio 2010\Projects\Query\Query\obj\x86\Debug\Query.automail.resources
+C:\Users\Phoenix\Desktop\Query\Query\bin\Debug\Database1.mdf
+C:\Users\Phoenix\Desktop\Query\Query\bin\Debug\Database1_log.ldf
+C:\Users\Phoenix\Desktop\Query\Query\bin\Debug\Database2.mdb
+C:\Users\Phoenix\Desktop\Query\Query\bin\Debug\Query.exe.config
+C:\Users\Phoenix\Desktop\Query\Query\bin\Debug\Query.exe
+C:\Users\Phoenix\Desktop\Query\Query\bin\Debug\Query.pdb
+C:\Users\Phoenix\Desktop\Query\Query\bin\Debug\Query.xml
+C:\Users\Phoenix\Desktop\Query\Query\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Phoenix\Desktop\Query\Query\obj\x86\Debug\Query.Advanced_tools.resources
+C:\Users\Phoenix\Desktop\Query\Query\obj\x86\Debug\Query.automail.resources
+C:\Users\Phoenix\Desktop\Query\Query\obj\x86\Debug\Query.Email.resources
+C:\Users\Phoenix\Desktop\Query\Query\obj\x86\Debug\Query.index.resources
+C:\Users\Phoenix\Desktop\Query\Query\obj\x86\Debug\Query.login.resources
+C:\Users\Phoenix\Desktop\Query\Query\obj\x86\Debug\Query.Query.resources
+C:\Users\Phoenix\Desktop\Query\Query\obj\x86\Debug\Query.Resources.resources
+C:\Users\Phoenix\Desktop\Query\Query\obj\x86\Debug\Query.showdata.resources
+C:\Users\Phoenix\Desktop\Query\Query\obj\x86\Debug\Query.subindex.resources
+C:\Users\Phoenix\Desktop\Query\Query\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Phoenix\Desktop\Query\Query\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Phoenix\Desktop\Query\Query\obj\x86\Debug\Query.exe
+C:\Users\Phoenix\Desktop\Query\Query\obj\x86\Debug\Query.xml
+C:\Users\Phoenix\Desktop\Query\Query\obj\x86\Debug\Query.pdb
+D:\Docs\Project\XYZ\Timetable Notification Schedule - Group 7\Timetable Notification - code\Query\bin\Debug\Query.exe.config
+D:\Docs\Project\XYZ\Timetable Notification Schedule - Group 7\Timetable Notification - code\Query\obj\x86\Debug\Query.exe
+D:\Docs\Project\XYZ\Timetable Notification Schedule - Group 7\Timetable Notification - code\Query\obj\x86\Debug\Query.xml
+D:\Docs\Project\XYZ\Timetable Notification Schedule - Group 7\Timetable Notification - code\Query\obj\x86\Debug\Query.pdb
+D:\Docs\Project\XYZ\Timetable Notification Schedule - Group 7\Timetable Notification - code\Query\bin\Debug\Database1.mdf
+D:\Docs\Project\XYZ\Timetable Notification Schedule - Group 7\Timetable Notification - code\Query\bin\Debug\Database1_log.ldf
+D:\Docs\Project\XYZ\Timetable Notification Schedule - Group 7\Timetable Notification - code\Query\bin\Debug\Database2.mdb
+D:\Docs\Project\XYZ\Timetable Notification Schedule - Group 7\Timetable Notification - code\Query\bin\Debug\Query.exe
+D:\Docs\Project\XYZ\Timetable Notification Schedule - Group 7\Timetable Notification - code\Query\bin\Debug\Query.pdb
+D:\Docs\Project\XYZ\Timetable Notification Schedule - Group 7\Timetable Notification - code\Query\bin\Debug\Query.xml
+D:\Docs\Project\XYZ\Timetable Notification Schedule - Group 7\Timetable Notification - code\Query\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Docs\Project\XYZ\Timetable Notification Schedule - Group 7\Timetable Notification - code\Query\obj\x86\Debug\Query.Advanced_tools.resources
+D:\Docs\Project\XYZ\Timetable Notification Schedule - Group 7\Timetable Notification - code\Query\obj\x86\Debug\Query.automail.resources
+D:\Docs\Project\XYZ\Timetable Notification Schedule - Group 7\Timetable Notification - code\Query\obj\x86\Debug\Query.Email.resources
+D:\Docs\Project\XYZ\Timetable Notification Schedule - Group 7\Timetable Notification - code\Query\obj\x86\Debug\Query.index.resources
+D:\Docs\Project\XYZ\Timetable Notification Schedule - Group 7\Timetable Notification - code\Query\obj\x86\Debug\Query.login.resources
+D:\Docs\Project\XYZ\Timetable Notification Schedule - Group 7\Timetable Notification - code\Query\obj\x86\Debug\Query.Query.resources
+D:\Docs\Project\XYZ\Timetable Notification Schedule - Group 7\Timetable Notification - code\Query\obj\x86\Debug\Query.Resources.resources
+D:\Docs\Project\XYZ\Timetable Notification Schedule - Group 7\Timetable Notification - code\Query\obj\x86\Debug\Query.showdata.resources
+D:\Docs\Project\XYZ\Timetable Notification Schedule - Group 7\Timetable Notification - code\Query\obj\x86\Debug\Query.subindex.resources
+D:\Docs\Project\XYZ\Timetable Notification Schedule - Group 7\Timetable Notification - code\Query\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Docs\Project\XYZ\Timetable Notification Schedule - Group 7\Timetable Notification - code\Query\obj\x86\Debug\GenerateResource.write.1.tlog
