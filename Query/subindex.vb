@@ -5,7 +5,7 @@
         Dim MyConnection As System.Data.OleDb.OleDbConnection
         Dim DtSet As System.Data.DataSet
         Dim MyCommand As System.Data.OleDb.OleDbDataAdapter
-        MyConnection = New System.Data.OleDb.OleDbConnection("Provider=Microsoft.ACE.OLEDB.12.0;Data Source='c:\ttable1.xlsx';Extended Properties=Excel 12.0")
+        MyConnection = New System.Data.OleDb.OleDbConnection("Provider=Microsoft.ACE.OLEDB.12.0;Data Source='d:\ttable1.xlsx';Extended Properties=Excel 12.0")
         MyCommand = New System.Data.OleDb.OleDbDataAdapter("select NAME,ID from [Sheet1$]  ", MyConnection)
         DtSet = New System.Data.DataSet
         MyCommand.Fill(DtSet)
