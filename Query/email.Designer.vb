@@ -311,7 +311,7 @@ Partial Class Email
         'cmbto
         '
         Me.cmbto.FormattingEnabled = True
-        Me.cmbto.Items.AddRange(New Object() {"gowtham.s@cse.christuniversity.in", "minu.benny@cse.christuniversity.in", "prijo.mathews@cse.christuniversity.in"})
+        Me.cmbto.Items.AddRange(New Object() {"ajith.thomas@cse.christuniversity.in", "gowtham.s@cse.christuniversity.in", "joseph.emmaluel@cse.christuniversity.in"})
         Me.cmbto.Location = New System.Drawing.Point(122, 275)
         Me.cmbto.Name = "cmbto"
         Me.cmbto.Size = New System.Drawing.Size(184, 21)

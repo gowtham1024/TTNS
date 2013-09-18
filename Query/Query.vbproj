@@ -143,6 +143,12 @@
     <Compile Include="email.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Exam.Designer.vb">
+      <DependentUpon>Exam.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Exam.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="index.Designer.vb">
       <DependentUpon>index.vb</DependentUpon>
     </Compile>
@@ -199,6 +205,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="email.resx">
       <DependentUpon>email.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Exam.resx">
+      <DependentUpon>Exam.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="index.resx">
       <DependentUpon>index.vb</DependentUpon>

@@ -135,7 +135,7 @@ Partial Class automail
         Me.btnimport.BackColor = System.Drawing.Color.LightGray
         Me.btnimport.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None
         Me.btnimport.Font = New System.Drawing.Font("Virtual DJ", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btnimport.Location = New System.Drawing.Point(498, 548)
+        Me.btnimport.Location = New System.Drawing.Point(478, 559)
         Me.btnimport.Name = "btnimport"
         Me.btnimport.Size = New System.Drawing.Size(376, 107)
         Me.btnimport.TabIndex = 71

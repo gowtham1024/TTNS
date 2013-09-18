@@ -101,7 +101,7 @@ Public Class automail
 
         For i = 0 To it - 1
             txtuser.Text = "super.user1009@gmail.com"
-            pass = "superadmin1"
+            pass = "superadmin2"
             txtpass.Text = pass.ToString
             txtsub.Text = " SCHEDULE FOR TODAY "
             disppath = lstinput.Items(i).ToString

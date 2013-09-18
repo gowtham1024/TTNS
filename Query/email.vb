@@ -289,46 +289,46 @@ Public Class Email
 
     Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnsend.Click
 
+
+        btnsend.Text = " Sending.. Please Wait.. "
+        btnsend.Enabled = False
+
+        If txtuser.Text = "" Then
+            MessageBox.Show(" Error! Please Enter your Mail ID")
+            txtuser.Select()
+
+        ElseIf txtpass.Text = "" Then
+            MessageBox.Show(" Error! Please Enter your Password")
+            txtpass.Select()
+        End If
+
+
+Dim MyMailMessage As New MailMessage()
+
+
+        MyMailMessage.From = New MailAddress("super.user1009@gmail.com")
+
+
+        MyMailMessage.To.Add(cmbto.Text.ToString)
+
+        MyMailMessage.Subject = txtsub.Text.ToString
+        MyMailMessage.Body = txtbody.Text.ToString
+
+
+        Dim SMTPServer As New SmtpClient("smtp.gmail.com")
+        SMTPServer.Port = 587
+        SMTPServer.Credentials = New System.Net.NetworkCredential("super.user1009@gmail.com", "superadmin2")
+        SMTPServer.EnableSsl = True
+
         Try
-            btnsend.Text = " Sending.. Please Wait.. "
-            btnsend.Enabled = False
-
-            If txtuser.Text = "" Then
-                MessageBox.Show(" Error! Please Enter your Mail ID")
-                txtuser.Select()
-
-            ElseIf txtpass.Text = "" Then
-                MessageBox.Show(" Error! Please Enter your Password")
-                txtpass.Select()
-            End If
-            Dim message As New Net.Mail.MailMessage(txtuser.Text.ToString, cmbto.Text.ToString, txtsub.Text.ToString.ToString, txtbody.Text.ToString + vbNewLine + txtreminder.Text)
-            Dim smtp As New Net.Mail.SmtpClient("smtp.gmail.com")
-            Dim cred As New Net.NetworkCredential(txtuser.Text.ToString, txtpass.Text.ToString)
-            smtp.EnableSsl = True
-            smtp.Credentials = cred
-            smtp.Port = 587
-            smtp.Host = "smtp.gmail.com"
-            smtp.Send(message)
-            btnsend.Text = " Send "
+            SMTPServer.Send(MyMailMessage)
+            MessageBox.Show("Message sent successfulluy", "Message")
             btnsend.Enabled = True
-
-            MsgBox("Message sent successfully! Do u want to clear fields?", MsgBoxStyle.Information + MsgBoxStyle.YesNo, "Message")
-            btnsend.Text = "Send"
-            If MsgBoxResult.Yes Then
-                txtbody.Clear()
-                txtpass.Clear()
-                txtsub.Clear()
-                cmbto.Text = ""
-                txtuser.Clear()
-                txtreminder.Clear()
-
-            ElseIf MsgBoxResult.No Then
-
-            End If
-        Catch ex As Exception
-            ' MsgBox("Error!! Check internet settings")
-            MsgBox(ex.ToString)
-
+            btnsend.Text = "SEND MAIL"
+        Catch ex As SmtpException
+            MessageBox.Show(ex.Message)
+            btnsend.Enabled = True
+            btnsend.Text = "SEND MAIL"
         End Try
 
     End Sub

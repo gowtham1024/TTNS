@@ -1,7 +1,7 @@
-D:\Docs\Project\XYZ\Timetable Notification Schedule - Group 7\Timetable Notification - code\Query\bin\x64\Debug\Query.exe.config
 D:\Docs\Project\XYZ\Timetable Notification Schedule - Group 7\Timetable Notification - code\Query\bin\x64\Debug\Database1.mdf
 D:\Docs\Project\XYZ\Timetable Notification Schedule - Group 7\Timetable Notification - code\Query\bin\x64\Debug\Database1_log.ldf
 D:\Docs\Project\XYZ\Timetable Notification Schedule - Group 7\Timetable Notification - code\Query\bin\x64\Debug\Database2.mdb
+D:\Docs\Project\XYZ\Timetable Notification Schedule - Group 7\Timetable Notification - code\Query\bin\x64\Debug\Query.exe.config
 D:\Docs\Project\XYZ\Timetable Notification Schedule - Group 7\Timetable Notification - code\Query\bin\x64\Debug\Query.exe
 D:\Docs\Project\XYZ\Timetable Notification Schedule - Group 7\Timetable Notification - code\Query\bin\x64\Debug\Query.pdb
 D:\Docs\Project\XYZ\Timetable Notification Schedule - Group 7\Timetable Notification - code\Query\bin\x64\Debug\Query.xml
@@ -20,3 +20,26 @@ D:\Docs\Project\XYZ\Timetable Notification Schedule - Group 7\Timetable Notifica
 D:\Docs\Project\XYZ\Timetable Notification Schedule - Group 7\Timetable Notification - code\Query\obj\x64\Debug\Query.exe
 D:\Docs\Project\XYZ\Timetable Notification Schedule - Group 7\Timetable Notification - code\Query\obj\x64\Debug\Query.xml
 D:\Docs\Project\XYZ\Timetable Notification Schedule - Group 7\Timetable Notification - code\Query\obj\x64\Debug\Query.pdb
+C:\Users\PHOENIX\Desktop\Timetable Notification - code\Query\bin\x64\Debug\Query.exe.config
+C:\Users\PHOENIX\Desktop\Timetable Notification - code\Query\bin\x64\Debug\Database1.mdf
+C:\Users\PHOENIX\Desktop\Timetable Notification - code\Query\bin\x64\Debug\Database1_log.ldf
+C:\Users\PHOENIX\Desktop\Timetable Notification - code\Query\bin\x64\Debug\Database2.mdb
+C:\Users\PHOENIX\Desktop\Timetable Notification - code\Query\bin\x64\Debug\Query.exe
+C:\Users\PHOENIX\Desktop\Timetable Notification - code\Query\bin\x64\Debug\Query.pdb
+C:\Users\PHOENIX\Desktop\Timetable Notification - code\Query\bin\x64\Debug\Query.xml
+C:\Users\PHOENIX\Desktop\Timetable Notification - code\Query\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Users\PHOENIX\Desktop\Timetable Notification - code\Query\obj\x64\Debug\Query.Advanced_tools.resources
+C:\Users\PHOENIX\Desktop\Timetable Notification - code\Query\obj\x64\Debug\Query.automail.resources
+C:\Users\PHOENIX\Desktop\Timetable Notification - code\Query\obj\x64\Debug\Query.Email.resources
+C:\Users\PHOENIX\Desktop\Timetable Notification - code\Query\obj\x64\Debug\Query.Exam.resources
+C:\Users\PHOENIX\Desktop\Timetable Notification - code\Query\obj\x64\Debug\Query.index.resources
+C:\Users\PHOENIX\Desktop\Timetable Notification - code\Query\obj\x64\Debug\Query.login.resources
+C:\Users\PHOENIX\Desktop\Timetable Notification - code\Query\obj\x64\Debug\Query.Query.resources
+C:\Users\PHOENIX\Desktop\Timetable Notification - code\Query\obj\x64\Debug\Query.Resources.resources
+C:\Users\PHOENIX\Desktop\Timetable Notification - code\Query\obj\x64\Debug\Query.showdata.resources
+C:\Users\PHOENIX\Desktop\Timetable Notification - code\Query\obj\x64\Debug\Query.subindex.resources
+C:\Users\PHOENIX\Desktop\Timetable Notification - code\Query\obj\x64\Debug\GenerateResource.read.1.tlog
+C:\Users\PHOENIX\Desktop\Timetable Notification - code\Query\obj\x64\Debug\GenerateResource.write.1.tlog
+C:\Users\PHOENIX\Desktop\Timetable Notification - code\Query\obj\x64\Debug\Query.exe
+C:\Users\PHOENIX\Desktop\Timetable Notification - code\Query\obj\x64\Debug\Query.xml
+C:\Users\PHOENIX\Desktop\Timetable Notification - code\Query\obj\x64\Debug\Query.pdb

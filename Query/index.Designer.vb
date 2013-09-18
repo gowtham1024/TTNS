@@ -27,6 +27,7 @@ Partial Class index
         Me.btn2 = New System.Windows.Forms.Button()
         Me.btnmore = New System.Windows.Forms.Button()
         Me.Button4 = New System.Windows.Forms.Button()
+        Me.Button1 = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'btnemail
@@ -73,12 +74,24 @@ Partial Class index
         Me.Button4.Text = "Exit"
         Me.Button4.UseVisualStyleBackColor = False
         '
+        'Button1
+        '
+        Me.Button1.BackColor = System.Drawing.SystemColors.MenuHighlight
+        Me.Button1.Font = New System.Drawing.Font("Lucida Calligraphy", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button1.Location = New System.Drawing.Point(506, 287)
+        Me.Button1.Name = "Button1"
+        Me.Button1.Size = New System.Drawing.Size(199, 67)
+        Me.Button1.TabIndex = 4
+        Me.Button1.Text = "Exam "
+        Me.Button1.UseVisualStyleBackColor = False
+        '
         'index
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackgroundImage = Global.Query.My.Resources.Resources.sending_e_mail_template_backgrounds
         Me.ClientSize = New System.Drawing.Size(1211, 640)
+        Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.Button4)
         Me.Controls.Add(Me.btnmore)
         Me.Controls.Add(Me.btn2)
@@ -94,4 +107,5 @@ Partial Class index
     Friend WithEvents btn2 As System.Windows.Forms.Button
     Friend WithEvents btnmore As System.Windows.Forms.Button
     Friend WithEvents Button4 As System.Windows.Forms.Button
+    Friend WithEvents Button1 As System.Windows.Forms.Button
 End Class

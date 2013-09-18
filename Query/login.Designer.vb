@@ -31,6 +31,7 @@ Partial Class login
         Me.txtloginname = New System.Windows.Forms.TextBox()
         Me.txtloginpass = New System.Windows.Forms.TextBox()
         Me.Label1 = New System.Windows.Forms.Label()
+        Me.Label2 = New System.Windows.Forms.Label()
         Me.SuspendLayout()
         '
         'btnlogin
@@ -75,7 +76,7 @@ Partial Class login
         Me.lbluname.BackColor = System.Drawing.Color.Transparent
         Me.lbluname.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.lbluname.ForeColor = System.Drawing.SystemColors.ControlLightLight
-        Me.lbluname.Location = New System.Drawing.Point(26, 228)
+        Me.lbluname.Location = New System.Drawing.Point(32, 283)
         Me.lbluname.Name = "lbluname"
         Me.lbluname.Size = New System.Drawing.Size(113, 18)
         Me.lbluname.TabIndex = 3
@@ -87,7 +88,7 @@ Partial Class login
         Me.lblpass.BackColor = System.Drawing.Color.Transparent
         Me.lblpass.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.lblpass.ForeColor = System.Drawing.SystemColors.ControlLightLight
-        Me.lblpass.Location = New System.Drawing.Point(61, 293)
+        Me.lblpass.Location = New System.Drawing.Point(67, 348)
         Me.lblpass.Name = "lblpass"
         Me.lblpass.Size = New System.Drawing.Size(78, 20)
         Me.lblpass.TabIndex = 4
@@ -96,7 +97,7 @@ Partial Class login
         'txtloginname
         '
         Me.txtloginname.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.txtloginname.Location = New System.Drawing.Point(166, 221)
+        Me.txtloginname.Location = New System.Drawing.Point(172, 276)
         Me.txtloginname.Multiline = True
         Me.txtloginname.Name = "txtloginname"
         Me.txtloginname.Size = New System.Drawing.Size(191, 29)
@@ -105,7 +106,7 @@ Partial Class login
         'txtloginpass
         '
         Me.txtloginpass.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.txtloginpass.Location = New System.Drawing.Point(166, 286)
+        Me.txtloginpass.Location = New System.Drawing.Point(172, 341)
         Me.txtloginpass.Multiline = True
         Me.txtloginpass.Name = "txtloginpass"
         Me.txtloginpass.PasswordChar = Global.Microsoft.VisualBasic.ChrW(95)
@@ -118,11 +119,23 @@ Partial Class login
         Me.Label1.BackColor = System.Drawing.Color.Transparent
         Me.Label1.Font = New System.Drawing.Font("Tempus Sans ITC", 72.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label1.ForeColor = System.Drawing.SystemColors.ControlLightLight
-        Me.Label1.Location = New System.Drawing.Point(199, -5)
+        Me.Label1.Location = New System.Drawing.Point(-9, 103)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(1069, 126)
+        Me.Label1.Size = New System.Drawing.Size(1544, 126)
         Me.Label1.TabIndex = 7
-        Me.Label1.Text = "Time Table Notification "
+        Me.Label1.Text = "Automatic Time Table Notification "
+        '
+        'Label2
+        '
+        Me.Label2.AutoSize = True
+        Me.Label2.BackColor = System.Drawing.Color.Transparent
+        Me.Label2.Font = New System.Drawing.Font("Tempus Sans ITC", 72.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label2.ForeColor = System.Drawing.SystemColors.ControlLightLight
+        Me.Label2.Location = New System.Drawing.Point(503, -2)
+        Me.Label2.Name = "Label2"
+        Me.Label2.Size = New System.Drawing.Size(422, 126)
+        Me.Label2.TabIndex = 8
+        Me.Label2.Text = "HERMES"
         '
         'login
         '
@@ -131,6 +144,7 @@ Partial Class login
         Me.BackColor = System.Drawing.SystemColors.ActiveBorder
         Me.BackgroundImage = Global.Query.My.Resources.Resources.blue_dragon_wallpaper
         Me.ClientSize = New System.Drawing.Size(898, 587)
+        Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.txtloginpass)
         Me.Controls.Add(Me.txtloginname)
@@ -155,5 +169,6 @@ Partial Class login
     Friend WithEvents txtloginname As System.Windows.Forms.TextBox
     Friend WithEvents txtloginpass As System.Windows.Forms.TextBox
     Friend WithEvents Label1 As System.Windows.Forms.Label
+    Friend WithEvents Label2 As System.Windows.Forms.Label
 
 End Class
